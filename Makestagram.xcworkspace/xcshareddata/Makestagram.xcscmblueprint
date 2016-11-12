@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B72CE8F542EC3314CC9A363EB37D2E8BC87D6866",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B72CE8F542EC3314CC9A363EB37D2E8BC87D6866" : 0,
+    "A8407F7E66F5295AC386F64631552E364745EC95" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "200E5B76-9438-40B5-A099-D300C1C456DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B72CE8F542EC3314CC9A363EB37D2E8BC87D6866" : "Makestagram-Swift-V2-Starter-c15df6f064b0596fe261b8e624e0ee9b4b497a88%207\/",
+    "A8407F7E66F5295AC386F64631552E364745EC95" : "Makestagram-Swift-Solution-TemplateProject3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Makestagram",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Makestagram.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/18rberry\/Echo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8407F7E66F5295AC386F64631552E364745EC95"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/18rberry\/new-repository-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B72CE8F542EC3314CC9A363EB37D2E8BC87D6866"
+    }
+  ]
+}
